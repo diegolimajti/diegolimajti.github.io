@@ -30,7 +30,7 @@ baseurl:            "" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           Asia/Seoul
+timezone:           America/Buenos_Aires
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
